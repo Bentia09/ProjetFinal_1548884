@@ -8,7 +8,7 @@ namespace Symphonie.Models
 {
     [Table("Professeur", Schema = "Professeurs")]
     [Index("NoEmploye", Name = "UQ_Professeur_NoEmploye", IsUnique = true)]
-    [Index("NoEmploye", Name = "UQ__Professe__1A6A07C23E9EC7D7", IsUnique = true)]
+    [Index("NoEmploye", Name = "UQ__Professe__1A6A07C2FBD6F9F4", IsUnique = true)]
     public partial class Professeur
     {
         public Professeur()

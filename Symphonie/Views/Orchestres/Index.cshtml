@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Symphonie.Models.Orchestre>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NbEtudiant)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NbSection)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoLocal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Professeur)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NbEtudiant)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NbSection)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoLocal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Professeur.ProfesseurId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrchestreId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrchestreId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrchestreId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

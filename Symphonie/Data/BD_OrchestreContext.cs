@@ -29,6 +29,7 @@ namespace Symphonie.Data
         public virtual DbSet<Percussion> Percussions { get; set; } = null!;
         public virtual DbSet<PieceMusique> PieceMusiques { get; set; } = null!;
         public virtual DbSet<Professeur> Professeurs { get; set; } = null!;
+        public virtual DbSet<VwEtudiantParInstrument> VwEtudiantParInstruments { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -134,6 +135,11 @@ namespace Symphonie.Data
                     .HasForeignKey(d => d.InstrumentId)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_Professeur_InstruemntID");
+            });
+
+            modelBuilder.Entity<VwEtudiantParInstrument>(entity =>
+            {
+                entity.ToView("vw_EtudiantParInstrument", "Etudiants");
             });
 
             OnModelCreatingPartial(modelBuilder);

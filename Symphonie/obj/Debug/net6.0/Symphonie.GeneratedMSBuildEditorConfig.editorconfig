@@ -15,3 +15,55 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\1548884\Desktop\ProjetFinal_1548884\Symphonie
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Etudiants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Etudiants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Etudiants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Etudiants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Etudiants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Orchestres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JjaGVzdHJlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Orchestres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JjaGVzdHJlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Orchestres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JjaGVzdHJlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Orchestres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JjaGVzdHJlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Orchestres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JjaGVzdHJlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/1548884/Desktop/ProjetFinal_1548884/Symphonie/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
