@@ -10687,19 +10687,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\1548884\\.nuget\\packages\\": {}
+    "C:\\Users\\fry_c\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1548884\\Desktop\\ProjetFinal_1548884\\Symphonie\\Symphonie.csproj",
+      "projectUniqueName": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Symphonie.csproj",
       "projectName": "Symphonie",
-      "projectPath": "C:\\Users\\1548884\\Desktop\\ProjetFinal_1548884\\Symphonie\\Symphonie.csproj",
-      "packagesPath": "C:\\Users\\1548884\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1548884\\Desktop\\ProjetFinal_1548884\\Symphonie\\obj\\",
+      "projectPath": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Symphonie.csproj",
+      "packagesPath": "C:\\Users\\fry_c\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\1548884\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fry_c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10707,7 +10712,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.314\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10720,6 +10725,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -10758,24 +10768,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -10784,7 +10776,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.314\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
