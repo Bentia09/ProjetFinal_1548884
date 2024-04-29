@@ -22,7 +22,7 @@ namespace Symphonie.Controllers
         // GET: Etudiants
         public async Task<IActionResult> Index()
         {
-          var vue = await _context.VwEtudiantParInstruments.ToListAsync();
+            List<VwEtudiantParInstrument> vue = await _context.VwEtudiantParInstruments.ToListAsync();
 
 
             return View(vue);

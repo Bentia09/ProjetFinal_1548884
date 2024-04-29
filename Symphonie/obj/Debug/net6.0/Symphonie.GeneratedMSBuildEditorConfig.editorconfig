@@ -18,20 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\fry_c\Downloads\ProjetFinal_1548884\Symphonie
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/fry_c/Downloads/ProjetFinal_1548884/Symphonie/Views/Etudiants/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/fry_c/Downloads/ProjetFinal_1548884/Symphonie/Views/Etudiants/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/fry_c/Downloads/ProjetFinal_1548884/Symphonie/Views/Etudiants/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/fry_c/Downloads/ProjetFinal_1548884/Symphonie/Views/Etudiants/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/fry_c/Downloads/ProjetFinal_1548884/Symphonie/Views/Etudiants/Index.cshtml]
