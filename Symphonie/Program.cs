@@ -31,7 +31,7 @@ app.UseAuthorization();
 app.UseEndpoints(endpoints => {
     endpoints.MapControllerRoute(
         name: "default",
-        pattern: "{controller=Etudiants}/{action=Index}/{id?}"
+        pattern: "{controller=Professeurs}/{action=Index}/{id?}"
         );
 });
 app.MapRazorPages();

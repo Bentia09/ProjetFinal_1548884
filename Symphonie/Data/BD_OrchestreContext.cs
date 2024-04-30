@@ -25,6 +25,7 @@ namespace Symphonie.Data
         public virtual DbSet<Instrument> Instruments { get; set; } = null!;
         public virtual DbSet<InstrumentCorde> InstrumentCordes { get; set; } = null!;
         public virtual DbSet<InstrumentVent> InstrumentVents { get; set; } = null!;
+        public virtual DbSet<NoEmplye> NoEmplyes { get; set; } = null!;
         public virtual DbSet<Orchestre> Orchestres { get; set; } = null!;
         public virtual DbSet<Percussion> Percussions { get; set; } = null!;
         public virtual DbSet<PieceMusique> PieceMusiques { get; set; } = null!;

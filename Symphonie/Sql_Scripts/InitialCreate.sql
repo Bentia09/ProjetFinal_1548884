@@ -22,7 +22,7 @@ GO
 ALTER DATABASE BD_Orchestre
 ADD FILE (
     NAME = FG_Images1548884,
-    FILENAME = 'C:\EspaceLabo\BD_Images'
+    FILENAME = 'C:\EspaceLabo\BD_Images1548884'
 )
 TO FILEGROUP FG_Images1548884
 GO

@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Symphonie.Models
 {
     [Table("Etudiant", Schema = "Etudiants")]
-    [Index("NoEtudiant", Name = "UQ_Etudiant_NoEtudiant", IsUnique = true)]
+    [Index("NoEtudiant", Name = "UC_Etudiant_NoEtudiant", IsUnique = true)]
     public partial class Etudiant
     {
         public Etudiant()

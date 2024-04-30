@@ -61,7 +61,7 @@ CREATE TABLE Professeurs.Professeur(
 ProfesseurID int IDENTITY (1,1),
 Nom varchar(50) NOT NULL,
 Prenom varchar(50) NOT NULL,
-NoEmploye varchar(50) UNIQUE NOT NULL ,
+NoEmploye varchar(50)  NOT NULL ,
 InstrumentID int NOT NULL,
 CONSTRAINT PK_Professeur_ProfesseurID PRIMARY KEY (ProfesseurID)
 );
@@ -191,10 +191,10 @@ GO
 ALTER TABLE Orchestres.Percussion ADD CONSTRAINT CK_Percussion_TypePercussion CHECK (TypePercussion IN ('Tambour', 'Batterie',  'Triangle', 'Grosse caisse', 'Cymbales'))
 GO
 
-ALTER TABLE Etudiants.Etudiant ADD CONSTRAINT UQ_Etudiant_NoEtudiant UNIQUE (NoEtudiant)
+ALTER TABLE Etudiants.Etudiant ADD CONSTRAINT UC_Etudiant_NoEtudiant UNIQUE (NoEtudiant)
 GO
 
-ALTER TABLE Professeurs.Professeur ADD CONSTRAINT UQ_Professeur_NoEmploye UNIQUE (NoEmploye)
+ALTER TABLE Professeurs.Professeur ADD CONSTRAINT UC_Professeur_NoEmploye UNIQUE (NoEmploye)
 GO
 
 ALTER TABLE Adresses.Adresse ADD CONSTRAINT UQ_Adresse_NoPorte UNIQUE (NoPorte)
