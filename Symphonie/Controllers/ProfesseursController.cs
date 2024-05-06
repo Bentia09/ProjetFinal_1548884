@@ -52,17 +52,14 @@ namespace Symphonie.Controllers
             {
             new SqlParameter{ParameterName="@ProfesseurID", Value=professeur.ProfesseurId}
 
-
-            
-
             };
-             List<NoEmplye> noEmplyes = await _context.NoEmplyes.FromSqlRaw(query, parameters.ToArray()).ToListAsync();
+             List<NoEmplye> noEmployes = await _context.NoEmplyes.FromSqlRaw(query, parameters.ToArray()).ToListAsync();
 
             
             ProfesseurEmployeViewModel viewModel= new ProfesseurEmployeViewModel()
             { Professeur=professeur,
             
-            NoEmployes=noEmplyes
+            NoEmployes=noEmployes
             
             
             };
@@ -70,29 +67,7 @@ namespace Symphonie.Controllers
             return View(viewModel);
         }
 
-        // GET: Professeurs/Create
-        public IActionResult Create()
-        {
-            ViewData["InstrumentId"] = new SelectList(_context.Instruments, "InstrumentId", "InstrumentId");
-            return View();
-        }
-
-        // POST: Professeurs/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProfesseurId,Nom,Prenom,NoEmploye,InstrumentId")] Professeur professeur)
-        {
-            if (ModelState.IsValid)
-            {
-                _context.Add(professeur);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["InstrumentId"] = new SelectList(_context.Instruments, "InstrumentId", "InstrumentId", professeur.InstrumentId);
-            return View(professeur);
-        }
+        
 
        
         

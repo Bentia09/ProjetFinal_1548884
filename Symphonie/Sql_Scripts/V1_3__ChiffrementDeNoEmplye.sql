@@ -84,7 +84,7 @@ BEGIN
 END
 GO
   -- Insertions de quelques Professeur 
-     EXEC Professeurs.USP_ChiffrementNoEmploye  @Nom='Dalegrand' ,@Prenom ='Bentia' ,@NoEmployeChiffre= 'BD12345',@InstrumentID=1; 
-     EXEC Professeurs.USP_ChiffrementNoEmploye @Nom = 'Garcia', @Prenom = 'Maria', @NoEmployeChiffre = 'MG78901',@InstrumentID=2; 
-     EXEC Professeurs.USP_ChiffrementNoEmploye @Nom = 'Lee', @Prenom = 'David', @NoEmployeChiffre = 'DL12345',@InstrumentID=3; 
-     EXEC Professeurs.USP_ChiffrementNoEmploye @Nom = 'Patel', @Prenom = 'Priya', @NoEmployeChiffre = 'PP45678',@InstrumentID=4;
+    -- EXEC Professeurs.USP_ChiffrementNoEmploye  @Nom='Dalegrand' ,@Prenom ='Bentia' ,@NoEmployeChiffre= 'BD12345',@InstrumentID=1; 
+     --EXEC Professeurs.USP_ChiffrementNoEmploye @Nom = 'Garcia', @Prenom = 'Maria', @NoEmployeChiffre = 'MG78901',@InstrumentID=2; 
+     --EXEC Professeurs.USP_ChiffrementNoEmploye @Nom = 'Lee', @Prenom = 'David', @NoEmployeChiffre = 'DL12345',@InstrumentID=3; 
+     --EXEC Professeurs.USP_ChiffrementNoEmploye @Nom = 'Patel', @Prenom = 'Priya', @NoEmployeChiffre = 'PP45678',@InstrumentID=4;

@@ -1,4 +1,4 @@
-﻿@model Symphonie.Models.Professeur
+﻿@model Symphonie.ViewModels.ProfesseurEmployeViewModel
 
 @{
     ViewData["Title"] = "Details";
@@ -12,27 +12,33 @@
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nom)
+            @Html.DisplayNameFor(model => model.Professeur.Nom)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nom)
+            @Html.DisplayFor(model => model.Professeur.Nom)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Prenom)
+            @Html.DisplayNameFor(model => model.Professeur.Prenom)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Prenom)
+            @Html.DisplayFor(model => model.Professeur.Prenom)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NoEmployes.FirstOrDefault().NoEmployeClaire)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NoEmployes.FirstOrDefault().NoEmployeClaire)
         </dd>
        
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Instrument)
+            @Html.DisplayNameFor(model => model.Professeur.Instrument)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Instrument.InstrumentId)
+            @Html.DisplayFor(model => model.Professeur.Instrument.InstrumentId)
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.ProfesseurId">Edit</a> |
+  
     <a asp-action="Index">Back to List</a>
 </div>
