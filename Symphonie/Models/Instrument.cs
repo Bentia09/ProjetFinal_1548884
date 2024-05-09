@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 namespace Symphonie.Models
 {
     [Table("Instrument", Schema = "Orchestres")]
+    [Index("Identifiant", Name = "UC_Instrument_Identifiant", IsUnique = true)]
     public partial class Instrument
     {
         public Instrument()
@@ -24,6 +25,8 @@ namespace Symphonie.Models
         [StringLength(50)]
         [Unicode(false)]
         public string NomInstrument { get; set; } = null!;
+        public Guid Identifiant { get; set; }
+        public byte[]? Photo { get; set; }
 
         [InverseProperty("Instrument")]
         public virtual ICollection<Etudiant> Etudiants { get; set; }

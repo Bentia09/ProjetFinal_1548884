@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Symphonie.Models.Instrument>
+﻿@model IEnumerable<Symphonie.ViewModels.ImageViewModel>
 
 @{
     ViewData["Title"] = "Index";
@@ -14,23 +14,34 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.NomInstrument)
+                @Html.DisplayNameFor(model => model.Instrument.NomInstrument)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Instrument.Identifiant)
             </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.NomInstrument)
-            </td>
-            <td>
-               
-                <a asp-action="Details" asp-route-id="@item.InstrumentId">Details</a> 
-                
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Instrument.NomInstrument)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Instrument.Identifiant)
+                </td>
+                <td>
+                   
+                    
+                     <img alt="@(item.Instrument.NomInstrument)" src="@(item.PhotoUrl)"/>
+                    
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Instrument.InstrumentId">Details</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

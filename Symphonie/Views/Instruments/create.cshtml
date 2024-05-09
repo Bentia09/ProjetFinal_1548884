@@ -1,0 +1,39 @@
+﻿@model Symphonie.ViewModels.ImageUploadViewModel
+
+@{
+    ViewData["Title"] = "create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>create</h1>
+
+<h4>Instrument</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Instrument.NomInstrument" class="control-label"></label>
+                <input asp-for="Instrument.NomInstrument" class="form-control" />
+                <span asp-validation-for="Instrument.NomInstrument" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="FormFile" >Fichier Image</label>
+                <input id="FormFile" name="Formfile" type="file" accept="/image/*" class="form-control-file" />
+                <span asp-validation-for="FormFile"  class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

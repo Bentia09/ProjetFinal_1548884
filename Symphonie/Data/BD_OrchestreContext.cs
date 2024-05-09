@@ -94,6 +94,11 @@ namespace Symphonie.Data
                     .HasConstraintName("FK_Etudiant_OrchestreID");
             });
 
+            modelBuilder.Entity<Instrument>(entity =>
+            {
+                entity.Property(e => e.Identifiant).HasDefaultValueSql("(newid())");
+            });
+
             modelBuilder.Entity<InstrumentCorde>(entity =>
             {
                 entity.HasOne(d => d.Instrument)

@@ -3,12 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\views\\instruments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:views\\instruments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\controllers\\instrumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:controllers\\instrumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_5__traitementdesimages.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_5__traitementdesimages.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_1__insertion des donn\u00E9es.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_1__insertion des donn\u00E9es.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_0__creationtable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_0__creationtable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\viewmodels\\instrumentetsesetudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:viewmodels\\instrumentetsesetudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\viewmodels\\professeuremployeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:viewmodels\\professeuremployeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_3__chiffrementdenoemplye.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_3__chiffrementdenoemplye.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\views\\instruments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:views\\instruments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\viewmodels\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:viewmodels\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\controllers\\etudiantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:controllers\\etudiantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\viewmodels\\imageuploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:viewmodels\\imageuploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\controllers\\orchestrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:controllers\\orchestrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_4__procedurestockeemasterdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_4__procedurestockeemasterdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\views\\instruments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:views\\instruments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\instrumentvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\instrumentvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\controllers\\professeurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:controllers\\professeurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\data\\bd_orchestrecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:data\\bd_orchestrecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\orchestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\orchestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\noemplye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\noemplye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\views\\orchestres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:views\\orchestres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\archiveetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\archiveetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\percussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\percussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\views\\instruments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:views\\instruments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\views\\professeurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,76 +127,12 @@
       "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:views\\professeurs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\controllers\\instrumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:controllers\\instrumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_4__procedurestockeemasterdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_4__procedurestockeemasterdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\viewmodels\\instrumentetsesetudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:viewmodels\\instrumentetsesetudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\controllers\\professeurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:controllers\\professeurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\controllers\\orchestrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:controllers\\orchestrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\vwetudiantparinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\vwetudiantparinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\viewmodels\\professeuremployeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:viewmodels\\professeuremployeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\views\\orchestres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:views\\orchestres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\controllers\\etudiantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:controllers\\etudiantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_3__chiffrementdenoemplye.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_3__chiffrementdenoemplye.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_0__creationtable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_0__creationtable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_2__creationvue.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_2__creationvue.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_1__insertion des donn\u00E9es.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_1__insertion des donn\u00E9es.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\noemplye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\noemplye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\data\\bd_orchestrecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:data\\bd_orchestrecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,14 +155,6 @@
       "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\choixorchestrepiecemusique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\models\\archiveetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:models\\archiveetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -147,8 +175,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ProfesseurNoEmployeEnClaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|c:\\users\\fry_c\\downloads\\projetfinal_1548884\\symphonie\\sql_scripts\\v1_4__procedurestockeemasterdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{08512EA2-2AC1-4B27-B4DE-19AE788429E7}|Symphonie.csproj|solutionrelative:sql_scripts\\v1_4__procedurestockeemasterdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ImageInstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ImageInstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\InstrumentVentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\InstrumentVentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,150 +190,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Instruments\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Instruments\\Index.cshtml",
               "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Instruments\\Index.cshtml",
               "RelativeToolTip": "Views\\Instruments\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABWAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvy8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-08T21:46:29.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VwEtudiantParInstrument.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\VwEtudiantParInstrument.cs",
-              "RelativeDocumentMoniker": "Models\\VwEtudiantParInstrument.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\VwEtudiantParInstrument.cs",
-              "RelativeToolTip": "Models\\VwEtudiantParInstrument.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T00:10:21.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrchestresController.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\OrchestresController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrchestresController.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\OrchestresController.cs",
-              "RelativeToolTip": "Controllers\\OrchestresController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wBgAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T00:10:21.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Etudiants\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Etudiants\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Etudiants\\Details.cshtml",
-              "RelativeToolTip": "Views\\Etudiants\\Details.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T03:19:40.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Etudiants\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Etudiants\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Etudiants\\Index.cshtml",
-              "RelativeToolTip": "Views\\Etudiants\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T00:10:21.322Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "InstrumentsController.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\InstrumentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\InstrumentsController.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\InstrumentsController.cs",
-              "RelativeToolTip": "Controllers\\InstrumentsController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAADwvzIAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:32:26.482Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T00:10:21.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Professeurs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Professeurs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Professeurs\\Index.cshtml",
-              "RelativeToolTip": "Views\\Professeurs\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T21:07:10.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Professeurs\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Professeurs\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Professeurs\\Details.cshtml",
-              "RelativeToolTip": "Views\\Professeurs\\Details.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T21:06:38.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Instruments\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Instruments\\Details.cshtml",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Instruments\\Details.cshtml",
-              "RelativeToolTip": "Views\\Instruments\\Details.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T20:09:48.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "V1_4__ProcedureStockeeMasterDetail.sql ",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_4__ProcedureStockeeMasterDetail.sql",
-              "RelativeDocumentMoniker": "Sql_Scripts\\V1_4__ProcedureStockeeMasterDetail.sql",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_4__ProcedureStockeeMasterDetail.sql",
-              "RelativeToolTip": "Sql_Scripts\\V1_4__ProcedureStockeeMasterDetail.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-06T16:07:15.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProfesseursController.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\ProfesseursController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProfesseursController.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\ProfesseursController.cs",
-              "RelativeToolTip": "Controllers\\ProfesseursController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwEEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:01:48.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "InstrumentEtSesEtudiants.cs",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\InstrumentEtSesEtudiants.cs",
               "RelativeDocumentMoniker": "ViewModels\\InstrumentEtSesEtudiants.cs",
@@ -313,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "ProfesseurEmployeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\ProfesseurEmployeViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProfesseurEmployeViewModel.cs",
@@ -325,53 +243,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Orchestres\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Orchestres\\Index.cshtml",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Orchestres\\Index.cshtml",
-              "RelativeToolTip": "Views\\Orchestres\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T00:10:21.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EtudiantsController.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\EtudiantsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EtudiantsController.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\EtudiantsController.cs",
-              "RelativeToolTip": "Controllers\\EtudiantsController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T00:10:21.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "V1_3__ChiffrementDeNoEmplye.sql",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_3__ChiffrementDeNoEmplye.sql",
-              "RelativeDocumentMoniker": "Sql_Scripts\\V1_3__ChiffrementDeNoEmplye.sql",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_3__ChiffrementDeNoEmplye.sql",
-              "RelativeToolTip": "Sql_Scripts\\V1_3__ChiffrementDeNoEmplye.sql",
+              "DocumentIndex": 1,
+              "Title": "V1_5__TraitementDesImages.sql",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_5__TraitementDesImages.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_5__TraitementDesImages.sql",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_5__TraitementDesImages.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_5__TraitementDesImages.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-29T17:47:22.252Z"
+              "WhenOpened": "2024-05-08T22:15:56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "InitialCreate.sql",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\InitialCreate.sql",
-              "RelativeDocumentMoniker": "Sql_Scripts\\InitialCreate.sql",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\InitialCreate.sql",
-              "RelativeToolTip": "Sql_Scripts\\InitialCreate.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-28T00:10:21.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "V1_0__CreationTable.sql",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_0__CreationTable.sql",
               "RelativeDocumentMoniker": "Sql_Scripts\\V1_0__CreationTable.sql",
@@ -382,7 +265,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
+              "Title": "V1_1__Insertion des donn\u00E9es.sql",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_1__Insertion des donn\u00E9es.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_1__Insertion des donn\u00E9es.sql",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_1__Insertion des donn\u00E9es.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_1__Insertion des donn\u00E9es.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-28T00:10:21.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstrumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\InstrumentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstrumentsController.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\InstrumentsController.cs",
+              "RelativeToolTip": "Controllers\\InstrumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:32:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -394,37 +301,168 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "V1_2__CreationVue.sql",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_2__CreationVue.sql",
-              "RelativeDocumentMoniker": "Sql_Scripts\\V1_2__CreationVue.sql",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_2__CreationVue.sql",
-              "RelativeToolTip": "Sql_Scripts\\V1_2__CreationVue.sql",
+              "DocumentIndex": 9,
+              "Title": "V1_3__ChiffrementDeNoEmplye.sql",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_3__ChiffrementDeNoEmplye.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_3__ChiffrementDeNoEmplye.sql",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_3__ChiffrementDeNoEmplye.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_3__ChiffrementDeNoEmplye.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-28T00:10:21.303Z"
+              "WhenOpened": "2024-04-29T17:47:22.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "V1_1__Insertion des donn\u00E9es.sql",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_1__Insertion des donn\u00E9es.sql",
-              "RelativeDocumentMoniker": "Sql_Scripts\\V1_1__Insertion des donn\u00E9es.sql",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_1__Insertion des donn\u00E9es.sql",
-              "RelativeToolTip": "Sql_Scripts\\V1_1__Insertion des donn\u00E9es.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-28T00:10:21.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 10,
               "Title": "Instrument.cs",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Instrument.cs",
               "RelativeDocumentMoniker": "Models\\Instrument.cs",
               "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Instrument.cs",
               "RelativeToolTip": "Models\\Instrument.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T23:58:34.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrchestresController.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\OrchestresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrchestresController.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\OrchestresController.cs",
+              "RelativeToolTip": "Controllers\\OrchestresController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:10:21.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InitialCreate.sql",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\InitialCreate.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\InitialCreate.sql",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\InitialCreate.sql",
+              "RelativeToolTip": "Sql_Scripts\\InitialCreate.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-28T00:10:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EtudiantsController.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\EtudiantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EtudiantsController.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\EtudiantsController.cs",
+              "RelativeToolTip": "Controllers\\EtudiantsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:10:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageUploadViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\ImageUploadViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ImageUploadViewModel.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\ImageUploadViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ImageUploadViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:30:20.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\ImageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ImageViewModel.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\ImageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ImageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:07:50.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "V1_4__ProcedureStockeeMasterDetail.sql",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_4__ProcedureStockeeMasterDetail.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_4__ProcedureStockeeMasterDetail.sql",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_4__ProcedureStockeeMasterDetail.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_4__ProcedureStockeeMasterDetail.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-06T16:07:15.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InstrumentVent.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\InstrumentVent.cs",
+              "RelativeDocumentMoniker": "Models\\InstrumentVent.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\InstrumentVent.cs",
+              "RelativeToolTip": "Models\\InstrumentVent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:25:43.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Instruments\\create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instruments\\create.cshtml",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Instruments\\create.cshtml",
+              "RelativeToolTip": "Views\\Instruments\\create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:06:08.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfesseursController.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\ProfesseursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfesseursController.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\ProfesseursController.cs",
+              "RelativeToolTip": "Controllers\\ProfesseursController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:01:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ImageInstrument.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ImageInstrument.cs",
+              "RelativeDocumentMoniker": "Models\\ImageInstrument.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ImageInstrument.cs",
+              "RelativeToolTip": "Models\\ImageInstrument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:46:29.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BD_OrchestreContext.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Data\\BD_OrchestreContext.cs",
+              "RelativeDocumentMoniker": "Data\\BD_OrchestreContext.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Data\\BD_OrchestreContext.cs",
+              "RelativeToolTip": "Data\\BD_OrchestreContext.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAjwGkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:10:21.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Orchestre.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Orchestre.cs",
+              "RelativeDocumentMoniker": "Models\\Orchestre.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Orchestre.cs",
+              "RelativeToolTip": "Models\\Orchestre.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:57:55.053Z"
             },
             {
               "$type": "Document",
@@ -440,67 +478,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Professeur.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Professeur.cs",
-              "RelativeDocumentMoniker": "Models\\Professeur.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Professeur.cs",
-              "RelativeToolTip": "Models\\Professeur.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCsAAAAAAAAA",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Professeurs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Professeurs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Professeurs\\Details.cshtml",
+              "RelativeToolTip": "Views\\Professeurs\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T21:06:38.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Professeurs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Professeurs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Professeurs\\Index.cshtml",
+              "RelativeToolTip": "Views\\Professeurs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T21:07:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Percussion.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Percussion.cs",
+              "RelativeDocumentMoniker": "Models\\Percussion.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Percussion.cs",
+              "RelativeToolTip": "Models\\Percussion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:07:52.406Z"
+              "WhenOpened": "2024-05-08T22:16:08.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InstrumentVentsController.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\InstrumentVentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstrumentVentsController.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Controllers\\InstrumentVentsController.cs",
+              "RelativeToolTip": "Controllers\\InstrumentVentsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:21:10.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "BD_OrchestreContext.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Data\\BD_OrchestreContext.cs",
-              "RelativeDocumentMoniker": "Data\\BD_OrchestreContext.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Data\\BD_OrchestreContext.cs",
-              "RelativeToolTip": "Data\\BD_OrchestreContext.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAwwJcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T00:10:21.319Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Orchestres\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orchestres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Orchestres\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orchestres\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T00:10:21.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ProfesseurNoEmployeEnClaire.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ProfesseurNoEmployeEnClaire.cs",
-              "RelativeDocumentMoniker": "Models\\ProfesseurNoEmployeEnClaire.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ProfesseurNoEmployeEnClaire.cs",
-              "RelativeToolTip": "Models\\ProfesseurNoEmployeEnClaire.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T03:04:41.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DetailProfesseurViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\DetailProfesseurViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\DetailProfesseurViewModel.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\DetailProfesseurViewModel.cs",
-              "RelativeToolTip": "ViewModels\\DetailProfesseurViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T03:11:15.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Adresse.cs",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Adresse.cs",
-              "RelativeDocumentMoniker": "Models\\Adresse.cs",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Adresse.cs",
-              "RelativeToolTip": "Models\\Adresse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T01:50:00.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 24,
               "Title": "ArchiveEtudiant.cs",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ArchiveEtudiant.cs",
               "RelativeDocumentMoniker": "Models\\ArchiveEtudiant.cs",
@@ -512,7 +550,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Etudiants\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Etudiants\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Etudiants\\Index.cshtml",
+              "RelativeToolTip": "Views\\Etudiants\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T00:10:21.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Etudiants\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Etudiants\\Details.cshtml",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Etudiants\\Details.cshtml",
+              "RelativeToolTip": "Views\\Etudiants\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T03:19:40.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VwEtudiantParInstrument.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\VwEtudiantParInstrument.cs",
+              "RelativeDocumentMoniker": "Models\\VwEtudiantParInstrument.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\VwEtudiantParInstrument.cs",
+              "RelativeToolTip": "Models\\VwEtudiantParInstrument.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:10:21.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Instruments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instruments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Instruments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Instruments\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T20:09:48.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "V1_2__CreationVue.sql",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_2__CreationVue.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_2__CreationVue.sql",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Sql_Scripts\\V1_2__CreationVue.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_2__CreationVue.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-28T00:10:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Professeur.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Professeur.cs",
+              "RelativeDocumentMoniker": "Models\\Professeur.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Professeur.cs",
+              "RelativeToolTip": "Models\\Professeur.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:07:52.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProfesseurNoEmployeEnClaire.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ProfesseurNoEmployeEnClaire.cs",
+              "RelativeDocumentMoniker": "Models\\ProfesseurNoEmployeEnClaire.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ProfesseurNoEmployeEnClaire.cs",
+              "RelativeToolTip": "Models\\ProfesseurNoEmployeEnClaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:04:41.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DetailProfesseurViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\DetailProfesseurViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DetailProfesseurViewModel.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\ViewModels\\DetailProfesseurViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DetailProfesseurViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:11:15.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Adresse.cs",
+              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Adresse.cs",
+              "RelativeDocumentMoniker": "Models\\Adresse.cs",
+              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Adresse.cs",
+              "RelativeToolTip": "Models\\Adresse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:50:00.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "InstrumentCorde.cs",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\InstrumentCorde.cs",
               "RelativeDocumentMoniker": "Models\\InstrumentCorde.cs",
@@ -524,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "ChoixOrchestrePieceMusique.cs",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\ChoixOrchestrePieceMusique.cs",
               "RelativeDocumentMoniker": "Models\\ChoixOrchestrePieceMusique.cs",
@@ -536,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "Etudiant.cs",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Models\\Etudiant.cs",
               "RelativeDocumentMoniker": "Models\\Etudiant.cs",
@@ -548,19 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-28T00:10:21.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -572,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -584,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\fry_c\\Downloads\\ProjetFinal_1548884\\Symphonie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",

@@ -1,0 +1,37 @@
+﻿@model Symphonie.Models.InstrumentVent
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>InstrumentVent</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TypeVent)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TypeVent)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Materiaux)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Materiaux)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Instrument)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Instrument.InstrumentId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.InstrumentVentId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

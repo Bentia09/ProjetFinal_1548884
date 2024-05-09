@@ -22,12 +22,21 @@ namespace Symphonie.Controllers
         }
 
         // GET: Instruments
+
         public async Task<IActionResult> Index()
         {
-              return _context.Instruments != null ? 
-                          View(await _context.Instruments.ToListAsync()) :
-                          Problem("Entity set 'BD_OrchestreContext.Instruments'  is null.");
+            var instruments = await _context.Instruments.ToListAsync();
+
+            
+            var imageViewModels = instruments.Select(x => new ImageViewModel
+            {
+                Instrument = x,
+                PhotoUrl = x.Photo == null ? null : $"data:image/png;base64,{Convert.ToBase64String(x.Photo)}"
+            }).ToList();
+
+            return View(imageViewModels);
         }
+
 
         // GET: Instruments/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -75,15 +84,31 @@ namespace Symphonie.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("InstrumentId,NomInstrument")] Instrument instrument)
+        public async Task<IActionResult> Create(ImageUploadViewModel imageVM)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(instrument);
+
+                if(imageVM.FormFile !=null && imageVM.FormFile.Length>=0  )
+
+                {
+                    MemoryStream stream = new MemoryStream(); 
+                    await imageVM.FormFile.CopyToAsync(stream);
+                    byte[] photo = stream.ToArray();
+
+                    imageVM.Instrument.Photo= photo;
+
+
+                }
+
+
+
+
+                _context.Add(imageVM.Instrument);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(instrument);
+            return View(imageVM.Instrument);
         }
 
         // GET: Instruments/Edit/5
