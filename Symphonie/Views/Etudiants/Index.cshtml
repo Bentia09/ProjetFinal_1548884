@@ -5,8 +5,10 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
-
+<h1>Étudiant par son Instrument</h1>
+<div style="display: inline-block; background-color: #E6E6FA; padding: 5px 10px; border-radius: 5px;">
+    <a asp-action="Index" asp-controller="Orchestres">Retour</a>
+</div>
 
 <table class="table">
     <thead>
@@ -14,7 +16,7 @@
             <th>Nom</th>
             <th>Prénom</th>
             <th>No Étudiant</th>
-            <
+           <th>Nom Instrument</th>
         </tr>
     </thead>
     <tbody>

@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Symphonie.Models.Etudiant>
+
+@{
+    ViewData["Title"] = "LesEtudiantFiltre";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="display: inline-block; background-color: #E6E6FA; padding: 5px 10px; border-radius: 5px;">
+    <a asp-action="Index" asp-controller="Orchestres">Retour</a>
+</div>
+<h1>Liste des étudiants</h1>
+
+<form asp-controller="Etudiants" asp-action="LesEtudiantFiltre" method="get">
+    <div>
+        <label for="niveau">Niveau :</label>
+        <input type="number" id="niveau" name="niveau">
+    </div>
+    <div>
+        <label for="noEtudiant">Numéro d'étudiant :</label>
+        <input type="text" id="noEtudiant" name="noEtudiant">
+    </div>
+    <div>
+        <label for="orchestreID">ID de l'orchestre :</label>
+        <input type="number" id="orchestreID" name="orchestreID">
+    </div>
+    <button type="submit">Filtrer</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prenom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoEtudiant)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Niveau)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InstrumentId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrchestreId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prenom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoEtudiant)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Niveau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstrumentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrchestreId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.EtudiantId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.EtudiantId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.EtudiantId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

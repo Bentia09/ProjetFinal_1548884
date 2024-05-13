@@ -25,7 +25,7 @@ namespace Symphonie.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var instruments = await _context.Instruments.ToListAsync();
+           var instruments = await _context.Instruments.ToListAsync();
 
             
             var imageViewModels = instruments.Select(x => new ImageViewModel

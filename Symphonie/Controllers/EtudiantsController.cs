@@ -55,6 +55,34 @@ namespace Symphonie.Controllers
             return View(etudiant);
         }
 
-       
+      
+        public async Task<IActionResult>LesEtudiantFiltre(int? niveau, string NoEtudiant, int? OrchestreID  )
+
+        {
+            var etudiantsQuery = _context.Etudiants.AsQueryable();
+
+            if (niveau.HasValue)
+            {
+                etudiantsQuery = etudiantsQuery.Where(x => x.Niveau == niveau);
+            }
+
+            if (!string.IsNullOrEmpty(NoEtudiant))
+            {
+                etudiantsQuery = etudiantsQuery.Where(x => x.NoEtudiant == NoEtudiant);
+            }
+
+            if (OrchestreID.HasValue)
+            {
+                etudiantsQuery = etudiantsQuery.Where(x => x.OrchestreId == OrchestreID);
+            }
+
+            var etudiants = await etudiantsQuery.ToListAsync();
+
+            return View(etudiants);
+
+        }
+
+
+
     }
 }

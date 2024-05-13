@@ -53,7 +53,10 @@ namespace Symphonie.Controllers
             new SqlParameter{ParameterName="@ProfesseurID", Value=professeur.ProfesseurId}
 
             };
-             List<NoEmplye> noEmployes = await _context.NoEmplyes.FromSqlRaw(query, parameters.ToArray()).ToListAsync();
+
+
+
+            List<NoEmplye> noEmployes = await _context.NoEmplyes.FromSqlRaw(query, parameters.ToArray()).ToListAsync();
 
             
             ProfesseurEmployeViewModel viewModel= new ProfesseurEmployeViewModel()
